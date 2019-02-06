@@ -1,0 +1,8 @@
+https://lovescloud.eu.auth0.com/login?state=g6Fo2SBpWUtMWHVPNDh5bXJ5ZXVLN0loQzBJQ213YjdPQzFmX6N0aWTZIHBZT201UFFGNE11X2xMTFYtR2RXUTEzcjdnMWd6MjVwo2NpZNkgblYzRzgxSWxrRDBlSmlIU184d2ViRXRUNGZxYTEtWlM&client=nV3G81IlkD0eJiHS_8webEtT4fqa1-ZS&protocol=samlp
+
+https://github.com/albertlovescloud/riltraining
+prashantmdevadiga@gmail.com
+13
+devops@3.86.236.132
+devops
+Dev0p$!!/
